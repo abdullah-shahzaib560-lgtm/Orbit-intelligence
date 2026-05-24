@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Mail, Phone, Link, Menu, X, ExternalLink, ArrowRight, Check, Clock, Users, TrendingUp, Zap, Code, Shield, BarChart3, Package, MessageSquare, FileText, Calendar, DollarSign } from 'lucide-react';
+import { Mail, Phone, Link, Menu, X, ArrowRight, Check, Clock, Users, TrendingUp, Zap, Code, Shield, BarChart3, Package, MessageSquare, FileText, Calendar, DollarSign } from 'lucide-react';
 
 export default function OrbitIntelligencePortfolio() {
   const [currentPage, setCurrentPage] = useState('home');

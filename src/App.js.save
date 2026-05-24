@@ -1,4 +1,10 @@
+import logo from './logo.svg';
+import './App.css';
+
 import OrbitIntelligencePortfolio from './Portfolio';
 export default function App() {
   return <OrbitIntelligencePortfolio />;
 }
+function App() {
+  return (
+    <div className="App">
